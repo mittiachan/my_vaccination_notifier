@@ -12,10 +12,6 @@ auth_token = "7eb7bf767d2d3a32a605871a08bd2f4d"
 
 members = [
         {"phone_number": "+919629438603", "name": "Mike"},
-        {"phone_number": "+919008428005", "name": "Ani"},
-        {"phone_number": "+919739157512", "name": "Dii"},
-        {"phone_number": "+919606378005", "name": "JB"},
-        {"phone_number": "+918197029280", "name": "Meera"},
     ]
 
 records = {}
