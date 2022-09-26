@@ -11,7 +11,7 @@ account_sid = "***commented***"
 auth_token = "***commented***"
 
 members = [
-        {"phone_number": "+919629438603", "name": "Mike"},
+        {"phone_number": "******", "name": "Mike"},
     ]
 
 records = {}
